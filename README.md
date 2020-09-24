@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
+![](https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Ivanluca.Ivanluca)
+![](![Made with love in Vietnam](https://madewithlove.now.sh/vn?heart=true)
